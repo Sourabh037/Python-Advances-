@@ -1,9 +1,12 @@
 # to define a dictionary we use {} and it's unordered
-dictionary is mutable
+# dictionary is mutable you can write the items in both int ot srt
+# left side is keys and right side is value 
+# as for empty dictionary you use d = {}
 
 marks =  {"sourabh" : 70,
            "rohan" : 20,
-           "shubham" : 100
+           "shubham" : 100,
+            0 : "you"
          }
 
 # in dictionary value are store in two pair one is key other value 
