@@ -16,9 +16,9 @@ if(computer == you):
     print("draw")
 else:
     if((computer - you) == -1 or (computer - you ) == 2):
-        print("you lose")
-    else:
         print("you win")
+    else:
+        print("you lose")
     # if(computer == -1 and you == 1):
     #     print("you lose")
     # elif(computer == -1 and you == 0):
